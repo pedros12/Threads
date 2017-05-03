@@ -4,6 +4,7 @@
  Compilar: g++ -pthread -o nomeExecutavel nomeDesseArquivo
 */
 
+//a
 
 #include <stdlib.h>
 #include <stdio.h>
